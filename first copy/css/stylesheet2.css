@@ -1,0 +1,40 @@
+body { background-image: url(../original/iv-drips-beauty.jpeg);
+
+}
+
+h1{ font-variant: normal;
+color: pink;
+text-align:center;
+font-family: 'Trebuchet MS', sans-serif;
+}
+
+a{color:#ffe700;
+  margin-left:100px;
+  margin-right: 0px;}
+
+img {
+border-radius: 8px;
+margin-left:50px;
+margin-right: 50px;
+display: block;}
+
+h4{color:#001eff;
+text-align:center;}
+
+
+footer {border-bottom-style: ridge;
+border-width: thick;
+border-color:#ffe700 }
+
+a{ cursor: crosshair;
+image-orientation:center}
+
+
+figcaption, h2,p {
+  color:purple;
+  border-top-style: ridge;
+  border-width: thick;
+  border-color:#ffe700
+}
+
+nav{}

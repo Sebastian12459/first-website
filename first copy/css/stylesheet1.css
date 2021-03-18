@@ -1,0 +1,40 @@
+
+
+body {
+  background-image: linear-gradient(to bottom right, #892201, #d5b07c);
+  outline-style: double;
+}
+h1
+{font-family: Helvetica}
+h1, h4, h2,p, header{
+  color:#df8402;
+  margin-left:20px;
+
+}
+
+a{color:#8A3324}
+
+img { border-style: outset;
+  border-color:#bc6a3c;
+  margin-left:20px;
+}
+
+ footer {margin-left:20px;
+ color:#df8402;
+font-style: oblique;
+background-image: linear-gradient(to bottom right, #d5b07c,#892201);}
+
+
+h4 {
+  text-decoration: line-through;
+  font-family: Garamond;
+}
+
+figcaption { font-family:Garamond;
+ margin-left:20px;
+color:#d5b07c;
+ border-style: outset;
+border-color:#892201}
+
+nav { text-align: center;
+color:#892201;}
